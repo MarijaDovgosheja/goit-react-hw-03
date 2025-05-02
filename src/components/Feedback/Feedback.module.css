@@ -1,0 +1,12 @@
+.feedbackItem {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 0 auto;
+}
+.feedbackList {
+  list-style: none;
+  font-weight: 500;
+  font-size: 18px;
+  letter-spacing: -0.02em;
+}

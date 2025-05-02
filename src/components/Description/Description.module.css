@@ -1,0 +1,13 @@
+.title {
+  font-weight: 700;
+  font-size: 40px;
+  letter-spacing: -0.02em;
+  margin: 20px 0;
+  padding: 0 0 0 40px;
+}
+.text {
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: -0.02em;
+  padding: 0 0 0 40px;
+}

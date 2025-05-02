@@ -1,0 +1,13 @@
+.containerBtn {
+  display: flex;
+  gap: 10px;
+  padding: 0 0 0 40px;
+}
+.button {
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: -0.02em;
+  border: 1px solid rgba(102, 101, 101, 0.2);
+  background-color: rgb(229, 231, 231);
+}
